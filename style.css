@@ -1,0 +1,12 @@
+body{
+    background-color:blue;
+}
+
+#formulario{
+    display: flex;
+    flex-direction: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 250px;
+    align-items: center;
+}
